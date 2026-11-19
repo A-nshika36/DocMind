@@ -1,0 +1,8 @@
+{
+  "name": "DocuLearn AI",
+  "description": "AI-powered document learning assistant for students to summarize, ask questions, get suggested prompts, and practice MCQs from their study documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
